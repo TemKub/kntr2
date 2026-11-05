@@ -1,0 +1,22 @@
+.hidden {
+    display: none;
+}
+
+#menu ul {
+    padding: 10px;
+    cursor: pointer;
+}
+
+#products {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+}
